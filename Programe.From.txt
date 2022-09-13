@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>web-page</title>
+</head>
+<body>
+<h1>Name:-__________Date of Birth:________<br>
+Father'Name:____________ Phone No:________<br>
+Education/Qualification:__________ Father no:______ <br>
+Present Address:_____________________________<br>
+Land Mark:__________________________________<br>
+Father Occupation:__________________________<br>
+</body>
+</html>
